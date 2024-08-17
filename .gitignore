@@ -1,0 +1,8 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore the .env API keys
+.env
+
+# Ignore generated audio files
+audio_files/
