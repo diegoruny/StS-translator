@@ -1,4 +1,4 @@
-# Voice to Speech Translator
+# Audio to Speech Translator(EN)
 
 AI-powered tool for seamless speech-to-text, translation, and speech synthesis. Built with modern NLP and text-to-speech technologies.
 
