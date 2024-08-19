@@ -14,13 +14,13 @@ AI-powered tool for seamless speech-to-text, translation, and speech synthesis. 
 1. **Clone the Repo**
     ```bash
     git clone https://github.com/diegoruny/StS-translator
-    cd voice-to-speech-translator
+    cd StS-translator
     ```
 
 2. **Install Dependencies**
     ```bash
-    python -m venv venv
-    source venv/bin/activate
+    python -m venv .venv
+    .venv\Scripts\Activate
     pip install -r requirements.txt
     ```
 
